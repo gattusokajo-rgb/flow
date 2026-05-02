@@ -33,9 +33,9 @@ body, html {
 }
 
 .click-text {
-    color: rgb(255, 255, 255);
+    color: #ffb6c1;
     font-family: Arial, sans-serif;
-    letter-spacing: 8px;
-    font-size: 12px;
-    opacity: 0.7;
+    letter-spacing: 5px;
+    font-size: 14px;
+    text-shadow: 0 0 10px #ffb6c1;
 }
